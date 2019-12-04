@@ -1,8 +1,8 @@
-package game_of_life;
+package a8;
 
 import javax.swing.JFrame;
 
-public class Main {
+public class GameOfLife {
 
 		public static void main(String[] args) {
 			GameModel model = new GameModel(10, 10);

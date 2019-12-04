@@ -1,11 +1,11 @@
-package game_of_life;
+package a8;
 
 import java.awt.Color;
 import java.util.List;
 
 import javax.swing.JComboBox;
 
-import game_of_life.Act.ActType;
+import a8.Act.ActType;
 
 import java.util.ArrayList;
 
@@ -220,7 +220,7 @@ public class GameModel {
 
 		
 		}
-		_generation++;
+		//_generation++;
 		eval(new Act(ActType.ADVANCE));
 		
 	}

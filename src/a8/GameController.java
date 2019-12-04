@@ -1,4 +1,4 @@
-package game_of_life;
+package a8;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.TimerTask;
 
 import javax.swing.text.View;
 
-import game_of_life.Act.ActType;
+import a8.Act.ActType;
 
 
 public class GameController implements GameObserver, GameViewListener {

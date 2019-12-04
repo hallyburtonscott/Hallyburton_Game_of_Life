@@ -1,4 +1,4 @@
-package game_of_life;
+package a8;
 
 
 /*
