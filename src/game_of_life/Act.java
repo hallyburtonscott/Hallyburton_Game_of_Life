@@ -1,6 +1,7 @@
 package game_of_life;
 
 
+
 public class Act {
 	public enum ActType {SPOTCLICK, RESET, ADVANCE, START, PAUSE, RESIZE, RESPEED, STOP, RANDOM, BOX}
 	
